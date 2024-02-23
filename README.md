@@ -48,11 +48,6 @@ The EDA process involves:
 
 Based on our analysis, we uncover several key findings and insights, including:
 
-- Distribution of clinical trials by phase and status
-- Temporal trends in trial start dates and completion dates
-- Geographical distribution of trials across different countries and regions
-- Comparison of trial characteristics between different sponsors, phases, and statuses
-- Insights into enrollment rates and patient demographics.
 
 ## Conclusion
 
